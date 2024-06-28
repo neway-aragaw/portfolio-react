@@ -1,6 +1,6 @@
 <h2 className="text-center">
   Portfolio Website - v2.0<br />
-  <a href="https://newayaragaw.vercel.app/" target="_blank" rel="noopener noreferrer">newayaragaw.tech</a>
+  <a href="https://portfolio-react-woad-eight-18.vercel.app/" target="_blank" rel="noopener noreferrer">newayaragaw.tech</a>
 </h2>
 <div className="d-flex justify-content-center">
   <img src="./Images/readme-img.jpg" alt="Demo" />
